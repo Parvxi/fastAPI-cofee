@@ -298,7 +298,6 @@ seaborn
 semver
 Send2Trash
 service-identity
-simpful
 sipk
 six
 smart-open
