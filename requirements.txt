@@ -78,7 +78,6 @@ frozenlist
 fsspec
 future
 glob2
-gmpy2
 google-api-python-client
 google-auth
 google-auth-httplib2
@@ -150,7 +149,6 @@ kiwisolver
 lazy-object-proxy
 lazy_loader
 libarchive-c
-libclang
 linkify-it-py
 llvmlite
 lmdb
@@ -177,7 +175,6 @@ multipledispatch
 multiprocess
 munkres
 mypy-extensions
-mysql-connector-python
 nbclassic
 nbclient
 nbconvert
@@ -210,7 +207,6 @@ pep8
 pexpect
 pickleshare
 Pillow
-pkce
 pkginfo
 platformdirs
 plotly
@@ -251,7 +247,6 @@ PyMySQL
 pyodbc
 pyOpenSSL
 pyparsing
-PyQt5-sip
 pyrsistent
 PySocks
 pytest
@@ -308,7 +303,6 @@ statsmodels
 sympy
 tables
 tabulate
-TBB
 tblib
 tenacity
 tensorboard
