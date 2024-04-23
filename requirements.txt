@@ -6,12 +6,6 @@ aioitertools
 aiosignal
 aiosqlite
 alabaster
-anaconda-anon-usage
-anaconda-catalogs
-anaconda-client==1.12.0
-anaconda-cloud-auth
-anaconda-navigator
-anaconda-project
 anyio
 appdirs==1.4.4
 applaunchservices
