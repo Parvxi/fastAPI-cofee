@@ -48,7 +48,7 @@ chardet
 charset-normalizer==2.1.1
 click
 cloudpickle
-clyent==1.2.2
+clyent
 colorama
 colorcet
 comm
