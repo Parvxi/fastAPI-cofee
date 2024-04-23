@@ -299,13 +299,6 @@ sniffio
 snowballstemmer
 sortedcontainers
 soupsieve
-Sphinx
-sphinxcontrib-applehelp
-sphinxcontrib-devhelp
-sphinxcontrib-htmlhelp
-sphinxcontrib-jsmath
-sphinxcontrib-qthelp
-sphinxcontrib-serializinghtml
 spyder
 spyder-kernels
 SQLAlchemy
@@ -341,7 +334,6 @@ traitlets
 transformers
 Twisted
 typing_extensions
-uc-micro-py
 ujson
 Unidecode
 uritemplate
