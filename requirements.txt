@@ -7,7 +7,7 @@ aiosignal
 aiosqlite
 alabaster
 anaconda-catalogs
-anaconda-client~=1.12.0
+anaconda-client
 anaconda-cloud-auth
 anaconda-navigator
 anaconda-project
