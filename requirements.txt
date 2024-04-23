@@ -1,55 +1,51 @@
 absl-py==2.1.0
 aiobotocore==2.12.1
-aiofiles @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f56ag8l7kr/croot/aiofiles_1683773599608/work
-aiohttp @ file:///Users/cbousseau/work/recipes/ci_py311/aiohttp_1677926054700/work
-aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-aiosqlite @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3d75lecab1/croot/aiosqlite_1683773918307/work
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-anaconda-anon-usage @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e9u2jj7ck0/croot/anaconda-anon-usage_1694468549634/work
-anaconda-catalogs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e8tmw882qa/croot/anaconda-catalogs_1685727305051/work
+aiofiles
+aiohttp
+aioitertools
+aiosignal
+aiosqlite
+alabaster
+anaconda-anon-usage
+anaconda-catalogs
 anaconda-client==1.12.0
-anaconda-cloud-auth @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f31ldbbwyn/croot/anaconda-cloud-auth_1697462723029/work
-anaconda-navigator @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_0080v6n_w9/croot/anaconda-navigator_1699975624640/work
-anaconda-project @ file:///Users/cbousseau/work/recipes/ci_py311/anaconda-project_1677964558977/work
-anyio @ file:///Users/cbousseau/work/recipes/ci_py311/anyio_1677917528418/work/dist
+anaconda-cloud-auth
+anaconda-navigator
+anaconda-project
+anyio @
 appdirs==1.4.4
-applaunchservices @ file:///Users/cbousseau/work/recipes/ci_py311/applaunchservices_1677955996025/work
-appnope @ file:///Users/cbousseau/work/recipes/ci_py311/appnope_1677917710869/work
-appscript @ file:///Users/cbousseau/work/recipes/ci_py311/appscript_1677956964648/work
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///Users/cbousseau/work/recipes/ci_py311/argon2-cffi-bindings_1677915727169/work
-arrow @ file:///Users/cbousseau/work/recipes/ci_py311/arrow_1677931434012/work
-astroid @ file:///Users/cbousseau/work/recipes/ci_py311/astroid_1677926110661/work
-astropy @ file:///Users/cbousseau/work/recipes/ci_py311_2/astropy_1678994125362/work
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+applaunchservices
+appnope
+appscript
+argon2-cffi
+argon2-cffi-bindings
+arrow
+astroid
+astropy
+asttokens
 astunparse==1.6.3
-async-timeout @ file:///Users/cbousseau/work/recipes/ci_py311/async-timeout_1677925030615/work
+asttokens
 atomicwrites==1.4.0
-attrs @ file:///Users/cbousseau/work/recipes/ci_py311/attrs_1677906550284/work
-Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
-autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
-Babel @ file:///Users/cbousseau/work/recipes/ci_py311/babel_1677920677615/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+Automat
+autopep8
+backcall
+backports.functools-lru-cache
+backports.tempfile
 backports.weakref==1.0.post1
-bcrypt @ file:///Users/cbousseau/work/recipes/ci_py311/bcrypt_1677931459811/work
-beautifulsoup4 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_fa78jvo_0n/croot/beautifulsoup4-split_1681493044306/work
-binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-bokeh @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_7552pi2mmm/croot/bokeh_1690546093040/work
-boltons @ file:///Users/cbousseau/work/recipes/ci_py311/boltons_1677965141748/work
+binaryornot
+bleach
+bokeh
+boltons
 botocore==1.34.51
-Bottleneck @ file:///Users/cbousseau/work/recipes/ci_py311/bottleneck_1677925122241/work
+Bottleneck
 brotlipy==0.7.0
 CacheControl==0.14.0
 cachetools==5.3.2
 certifi==2024.2.2
-cffi @ file:///Users/cbousseau/work/recipes/ci_py311/cffi_1677903595907/work
-chardet @ file:///Users/cbousseau/work/recipes/ci_py311/chardet_1677931647221/work
+cffi
+chardet
 charset-normalizer==2.1.1
-click @ file:///Users/cbousseau/work/recipes/ci_py311/click_1677920889666/work
+click
 cloudpickle @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_da31odypvn/croot/cloudpickle_1683040013858/work
 clyent==1.2.2
 colorama @ file:///Users/cbousseau/work/recipes/ci_py311/colorama_1677925183444/work
