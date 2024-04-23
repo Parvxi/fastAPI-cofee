@@ -297,7 +297,6 @@ Scrapy
 seaborn
 semver
 Send2Trash
-service-identity
 sipk
 six
 smart-open
