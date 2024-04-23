@@ -287,8 +287,6 @@ rfc3986-validator
 rope
 rsa
 Rtree
-ruamel-yaml-conda
-ruamel.yaml
 s3fs
 sacremoses
 schedule
