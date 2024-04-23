@@ -296,7 +296,6 @@ scipy
 Scrapy
 seaborn
 semver
-Send2Trash
 sipk
 six
 smart-open
