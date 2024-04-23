@@ -358,4 +358,3 @@ ypy-websocket
 zict
 zipp
 zope.interface
-zstandard
