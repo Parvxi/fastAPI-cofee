@@ -151,7 +151,6 @@ lazy-object-proxy
 lazy_loader
 libarchive-c
 libclang
-libmambapy
 linkify-it-py
 llvmlite
 lmdb
