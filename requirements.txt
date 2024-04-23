@@ -345,6 +345,3 @@ xyzservices
 y-py
 yarl
 ypy-websocket
-zict
-zipp
-zope.interface
