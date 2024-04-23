@@ -295,10 +295,6 @@ scikit-learn
 scipy
 Scrapy
 seaborn
-semver
-sipk
-six
-smart-open
 sniffio
 snowballstemmer
 sortedcontainers
