@@ -178,7 +178,6 @@ multiprocess
 munkres
 mypy-extensions
 mysql-connector-python
-navigator-updater
 nbclassic
 nbclient
 nbconvert
