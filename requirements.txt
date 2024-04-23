@@ -336,8 +336,6 @@ Twisted
 typing_extensions
 ujson
 Unidecode
-uritemplate
-urllib3
 uvicorn
 w3lib
 watchdog
