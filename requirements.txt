@@ -9,7 +9,6 @@ alabaster
 anaconda-catalogs
 anaconda-client
 anaconda-cloud-auth
-anaconda-project
 anyio
 appdirs==1.4.4
 applaunchservices
